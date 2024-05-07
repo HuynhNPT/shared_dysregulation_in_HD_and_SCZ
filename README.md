@@ -10,3 +10,7 @@ Analyses in this manuscript were performed following these steps: <br>
 [Step 3](https://rawcdn.githack.com/HuynhNPT/shared_dysregulation_in_HD_and_SCZ/private/Script3_Module-prioritization-for-individual-networks.html) : Module prioritization of individual networks <br>
 [Step 4](https://rawcdn.githack.com/HuynhNPT/shared_dysregulation_in_HD_and_SCZ/private/Script4_Identification-of-prioritized-cluster.html) : Identification of prioritized cluster <br>
 [Step 5](https://rawcdn.githack.com/HuynhNPT/shared_dysregulation_in_HD_and_SCZ/private/Script5_Downstream-targets-of-OLIG2-and-TCF7L2.html) : Downstream targets of OLIG2 and TCF7L2
+
+## **Raw data accession** <br>
+Bulk RNA sequencing data: GSE105041, GSE86906, GSE188558 <br>
+ChIP sequencing data: GSE188559, GSE65119, GSE31477
